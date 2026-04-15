@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    flex-direction: column;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
+}
+
+.container{
+    background-color: azure;
+    height: auto;
+    width: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#btnContainer{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size:50px;
+    margin-bottom: 15px;
+    background-color: rgb(192, 215, 215);
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    text-decoration: none;
+    outline: none;
+    border-radius: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 5px;
+    cursor: pointer;
+}
+
+svg{
+    width: 18px;
+    height: 18px;
+    display: block;
+    margin: auto;
+}
+
+button:hover{
+    background-color: aquamarine;
+    transition: 0.3s ease-in-out;
+}

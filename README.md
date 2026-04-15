@@ -35,6 +35,16 @@ Files:
 - `to_Do_List_Mini_Project/style.css`
 - `to_Do_List_Mini_Project/scripts.js`
 
+### 3. Click Counter Mini Project
+
+A simple counter app with increase, decrease, and reset buttons to practice DOM selection, event handling, and UI updates with JavaScript.
+
+Files:
+
+- `click_Counter_Mini_Project/index.html`
+- `click_Counter_Mini_Project/style.css`
+- `click_Counter_Mini_Project/script.js`
+
 ## Purpose
 
 This is a learning repository, not a polished production project. It is meant to document practice, experiments, and gradual improvement through small builds.
