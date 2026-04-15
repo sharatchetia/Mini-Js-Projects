@@ -45,6 +45,16 @@ Files:
 - `click_Counter_Mini_Project/style.css`
 - `click_Counter_Mini_Project/script.js`
 
+### 4. Calculator Mini Project
+
+A basic calculator built with HTML, CSS, and JavaScript to practice layout, button interactions, and updating the display based on user input.
+
+Files:
+
+- `calculator_Mini_Project/index.html`
+- `calculator_Mini_Project/style.css`
+- `calculator_Mini_Project/script.js`
+
 ## Purpose
 
 This is a learning repository, not a polished production project. It is meant to document practice, experiments, and gradual improvement through small builds.
