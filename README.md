@@ -55,6 +55,15 @@ Files:
 - `calculator_Mini_Project/style.css`
 - `calculator_Mini_Project/script.js`
 
+### 5. JavaScript Exercise Files
+
+Practice exercises focused on core JavaScript logic, including functions, loops, conditions, strings, arrays, and simple problem-solving patterns.
+
+Files:
+
+- `java_exercise/ref.html`
+- `java_exercise/js_Exercise_1.js`
+
 ## Purpose
 
 This is a learning repository, not a polished production project. It is meant to document practice, experiments, and gradual improvement through small builds.
