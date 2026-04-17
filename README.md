@@ -63,6 +63,7 @@ Files:
 
 - `java_exercise/ref.html`
 - `java_exercise/js_Exercise_1.js`
+- `java_exercise/js_Exercise_2.js`
 
 ## Purpose
 
