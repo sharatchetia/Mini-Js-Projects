@@ -65,6 +65,14 @@ Files:
 - `java_exercise/js_Exercise_1.js`
 - `java_exercise/js_Exercise_2.js`
 
+### 6. Random Password Mini Project
+
+A simple password generator script built to practice functions, conditional logic, character sets, random selection, and string building in JavaScript.
+
+Files:
+
+- `random_Password_Mini_Project/script.js`
+
 ## Purpose
 
 This is a learning repository, not a polished production project. It is meant to document practice, experiments, and gradual improvement through small builds.
